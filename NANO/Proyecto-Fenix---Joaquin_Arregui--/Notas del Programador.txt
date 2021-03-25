@@ -1,0 +1,25 @@
+IR Temp Sensor:
+Conexión (I2C):
+Vin=5V
+GND=GND
+SDA= A4
+SCL=A5
+Longitud desde muñeca hasta nudillo= 10cm
+Buzzer:
+Conexión:
++=D8
+-=GND
+LED:
++=D2
+-=GND
+Software:
+Librerías I2C y sensor de temperatura.
+Constantes: dirección i2c del sensor, dirección del buzzer, dirección del led.
+Declaración del sensor de temperatura.
+Variables temperatura sensada.
+Función de control de arranque correcto
+Configurar salida de pantalla, sensor de temperatura, buzzer y led como salida.
+Función de lectura del sensor
+Funciones de alerta según cercanía de objeto dos estados 34 y 35 grados
+Condición de aviso 36 grados
+
