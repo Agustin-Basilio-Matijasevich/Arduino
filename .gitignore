@@ -30,9 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio 2015/2017 cache/options directory
 /.vs
-/NANO/Proyecto-Fenix---Joaquin_Arregui--/.vs/Proyecto-Fenix---Joaquin_Arregui--/v16
-/NANO/Termostato-Fenix-pruebas/.vs/Termostato-Fenix-pruebas/v16
-/UNO/control-servomotor-con-potenciometro/.vs/control-servomotor-con-potenciometro/v16
-/UNO/I2C-scan/.vs/I2C-scan/v16
-/UNO/juegos-con-placa-led-y-buzer/.vs/juegos-con-placa-led-y-buzer/v16
