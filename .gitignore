@@ -33,3 +33,8 @@
 
 # Visual Studio 2015/2017 cache/options directory
 /.vs
+/NANO/Proyecto-Fenix---Joaquin_Arregui--/.vs
+/NANO/Termostato-Fenix-pruebas/.vs
+/UNO/control-servomotor-con-potenciometro/.vs
+/UNO/I2C-scan/.vs
+/UNO/juegos-con-placa-led-y-buzer/.vs
